@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lzLoad/1.0.0": {
+        "dependencies": {
+          "Workers": "1.0.0"
+        },
+        "runtime": {
+          "lzLoad.dll": {}
+        }
+      },
+      "Workers/1.0.0": {
+        "runtime": {
+          "Workers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lzLoad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Workers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\bin\Debug\netcoreapp3.1\lzLoad.exe
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\bin\Debug\netcoreapp3.1\lzLoad.deps.json
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\bin\Debug\netcoreapp3.1\lzLoad.runtimeconfig.json
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\bin\Debug\netcoreapp3.1\lzLoad.runtimeconfig.dev.json
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\bin\Debug\netcoreapp3.1\lzLoad.dll
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\bin\Debug\netcoreapp3.1\lzLoad.pdb
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\obj\Debug\netcoreapp3.1\lzLoad.csprojAssemblyReference.cache
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\obj\Debug\netcoreapp3.1\lzLoad.AssemblyInfoInputs.cache
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\obj\Debug\netcoreapp3.1\lzLoad.AssemblyInfo.cs
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\obj\Debug\netcoreapp3.1\lzLoad.csproj.CoreCompileInputs.cache
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\obj\Debug\netcoreapp3.1\lzLoad.dll
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\obj\Debug\netcoreapp3.1\lzLoad.pdb
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\obj\Debug\netcoreapp3.1\lzLoad.genruntimeconfig.cache
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\bin\Debug\netcoreapp3.1\Workers.dll
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\bin\Debug\netcoreapp3.1\Workers.pdb
+C:\Users\sio\source\repos\NodejsConsoleApp1\lzLoad\obj\Debug\netcoreapp3.1\lzLoad.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\sio\source\repos\NodejsConsoleApp1\Workers\bin\Debug\netstandard2.0\Workers.deps.json
+C:\Users\sio\source\repos\NodejsConsoleApp1\Workers\bin\Debug\netstandard2.0\Workers.dll
+C:\Users\sio\source\repos\NodejsConsoleApp1\Workers\bin\Debug\netstandard2.0\Workers.pdb
+C:\Users\sio\source\repos\NodejsConsoleApp1\Workers\obj\Debug\netstandard2.0\Workers.csprojAssemblyReference.cache
+C:\Users\sio\source\repos\NodejsConsoleApp1\Workers\obj\Debug\netstandard2.0\Workers.AssemblyInfoInputs.cache
+C:\Users\sio\source\repos\NodejsConsoleApp1\Workers\obj\Debug\netstandard2.0\Workers.AssemblyInfo.cs
+C:\Users\sio\source\repos\NodejsConsoleApp1\Workers\obj\Debug\netstandard2.0\Workers.csproj.CoreCompileInputs.cache
+C:\Users\sio\source\repos\NodejsConsoleApp1\Workers\obj\Debug\netstandard2.0\Workers.dll
+C:\Users\sio\source\repos\NodejsConsoleApp1\Workers\obj\Debug\netstandard2.0\Workers.pdb
